@@ -4,7 +4,7 @@
 
 Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento web e open source. Estou constantemente aprendendo e explorando novas tecnologias.
 
-- 🌐 [Meu LinkedIn](linkedin.com/in/uendel-martins)
+- 🌐 Meu LinkedIn - linkedin.com/in/uendel-martins
 - 📧 Email: uendelmartins1501@gmail.com
 - 📚 Atualmente estudando REACT
 
