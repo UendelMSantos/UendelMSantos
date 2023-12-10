@@ -12,8 +12,8 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 
 Aqui estão algumas das tecnologias que eu utilizo em meus projetos:
 
-- **Linguagens de Programação:** JavaScript
-- **Desenvolvimento Web:** HTML, CSS, React, Node.js
+- **Linguagens de Programação:** JavaScript, TypesScript
+- **Desenvolvimento Web:** HTML, CSS, React, NextJs.
 - **Bancos de Dados:** FireBase
 - **Ferramentas de Controle de Versão:** Git, GitHub
 
