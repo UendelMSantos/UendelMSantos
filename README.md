@@ -16,7 +16,7 @@ Aqui estão algumas das tecnologias que eu utilizo em meus projetos:
 - **Desenvolvimento Web:** HTML, CSS, React, NextJs.
 - **Bancos de Dados:** FireBase
 - **Ferramentas de Controle de Versão:** Git, GitHub
-- **Desenvolvimento BackEnd:** NODE, SequelizeORM, Mysql.
+- **Desenvolvimento BackEnd:** NODE, SequelizeORM, PrismaORM, PostgresSQL, Mysql.
 
 
 
