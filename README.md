@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 
 - 🌐 Meu LinkedIn - linkedin.com/in/uendel-martins
 - 📧 Email: uendelmartins1501@gmail.com
-- 📚 Atualmente trabalhando com REACT, NODE e PYTHON
+- 📚 Atualmente trabalhando com REACT, NODE, JAVA, SPRING.
 
 ## Tecnologias
 
